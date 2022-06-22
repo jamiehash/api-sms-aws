@@ -14,7 +14,7 @@
   "dependencies": {
     "fbemitter": "2.0.2",
     "q": "2.0.3",
-    "got": "9.6.0",
+    "got": "11.8.5",
     "socket.io-client": "2.1.1"
   }
 }
